@@ -1,1 +1,1 @@
-# kodluyoruz-dspg A total of five homeworks. 
+A total of five homeworks. 
